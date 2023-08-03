@@ -1,2 +1,2 @@
-# 2023_Sem1_DatabaseProject
+# 2023_1_DatabaseProject
 
